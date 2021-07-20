@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bite A Slice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="everything_you_will_experience_will_be_absolutely_fresh">Everything you will experience will be absolutely fresh</string>
+    <string name="everything">Everything</string>
+    <string name="fresh">Fresh</string>
+    <string name="skip">Skip</string>
+    <string name="home">Home</string>
+    <string name="delivery">Delivery</string>
+    <string name="all_you_need_to_do_is_order_your_favourite_food">All you need to do is order your favourite food</string>
+    <string name="both_credit_card_and_cash_on_delivery_are_available_for_your_ease">Both credit card and cash on delivery are available for your ease</string>
+    <string name="payment">Payment</string>
+    <string name="easy">Easy</string>
+</resources>
